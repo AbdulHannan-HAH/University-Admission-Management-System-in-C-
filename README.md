@@ -1,1 +1,1 @@
-This is University Admission Management System designed for the managemnt of student records of a university. The project includes ogin/signup functionality and two roles (admin/user). The project also includes file handling through wich student recors and user credentials are checked.
+This is University Admission Management System designed for the managemnt of student records of a university. The project includes login/signup functionality and two roles (admin/user). The project also includes file handling through wich student recors and user credentials are checked.
